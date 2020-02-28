@@ -1,0 +1,38 @@
+.odhp {
+    display: flex;
+    justify-content: center;
+    margin-top: 25%;
+    font-family: 'Spartan' ;
+    font-size: 50px;
+}
+
+#o {
+    color:tomato;
+}
+
+#d {
+    color:khaki;
+}
+
+#h {
+    color:lightskyblue;
+}
+
+#p {
+    color:mediumseagreen;
+}
+
+img:hover{
+    width:20px;
+}
+
+#github{
+    width: 15px;
+    margin: 5px;
+}
+
+#linkedin{
+    width: 15px;
+    margin: 5px;
+}
+

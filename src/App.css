@@ -1,0 +1,22 @@
+@keyframes colorcycle {
+  0% {background-color: tomato;}
+  30% {background-color: khaki;}
+  60% {background-color: lightskyblue;}
+  90% {background-color: mediumseagreen;}
+  100% {background-color: tomato;}
+}
+
+.App {
+  text-align: center;
+}
+
+body {
+  animation: colorcycle 10s infinite;
+  font-family: 'Rubik';
+}
+
+#greeting {
+  margin: 7px;
+  font-family: 'courier';
+  font-size: 10px;
+}
